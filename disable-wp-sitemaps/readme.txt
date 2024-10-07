@@ -9,9 +9,9 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 5.4
-Tested up to: 6.6
-Stable tag: 1.8.3
-Version:    1.8.3
+Tested up to: 6.7
+Stable tag: 1.8.4
+Version:    1.8.4
 Requires PHP: 5.6.20
 Text Domain: disable-wp-sitemaps
 Domain Path: /languages
@@ -23,7 +23,7 @@ Activate this plugin to disable the auto-generated WP Sitemaps (added in WP v5.5
 
 == Description ==
 
-> Does one thing: disables the automatic WP Sitemaps.
+Does one thing: disables the automatic WP Sitemaps.
 
 Activate this plugin to disable the auto-generated WP Sitemaps (added in WordPress v5.5).
 
@@ -119,9 +119,9 @@ Send any questions or feedback via my [contact form](https://plugin-planet.com/s
 If you like Disable WP Sitemaps, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/disable-wp-sitemaps/reviews/?rate=5#new-post). It helps to keep the plugin going strong, and is greatly appreciated.
 
 
-**1.8.3 (2024/06/20)**
+**1.8.4 (2024/10/07)**
 
-* Tests on WordPress 6.6
+* Tests on WordPress 6.7
 
 
 Full changelog @ [https://plugin-planet.com/wp/changelog/disable-wp-sitemaps.txt](https://plugin-planet.com/wp/changelog/disable-wp-sitemaps.txt)
