@@ -9,16 +9,14 @@
 	Donate link: https://monzillamedia.com/donate.html
 	Contributors: specialk
 	Requires at least: 5.4
-	Tested up to: 6.8
-	Stable tag: 1.8.5
-	Version:    1.8.5
+	Tested up to: 6.9
+	Stable tag: 1.8.7
+	Version:    1.8.7
 	Requires PHP: 5.6.20
 	Text Domain: disable-wp-sitemaps
 	Domain Path: /languages
 	License: GPL v2 or later
-*/
-
-/*
+	
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 
@@ -32,7 +30,7 @@
 	You should have received a copy of the GNU General Public License
 	with this program. If not, visit: https://www.gnu.org/licenses/
 	
-	Copyright 2025 Monzilla Media. All rights reserved.
+	Copyright 2020-2026 Monzilla Media. All rights reserved.
 */
 
 if (!defined('ABSPATH')) die();

@@ -9,47 +9,42 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 5.4
-Tested up to: 6.8
-Stable tag: 1.8.5
-Version:    1.8.5
+Tested up to: 6.9
+Stable tag: 1.8.7
+Version:    1.8.7
 Requires PHP: 5.6.20
 Text Domain: disable-wp-sitemaps
 Domain Path: /languages
 License: GPL v2 or later
 
-Activate this plugin to disable the auto-generated WP Sitemaps (added in WP v5.5).
+Disables the automatically generated WP Sitemaps.
 
 
 
 == Description ==
 
-Does one thing: disables the automatic WP Sitemaps.
+This plugin prevents WordPress from adding its own sitemaps.
 
-Activate this plugin to disable the auto-generated WP Sitemaps (added in WordPress v5.5).
+Also stops WordPress from adding a sitemap rule to the virtual robots.txt file.
+
+👉 Uses only 1KB of code, so super lightweight, fast, and effective.
 
 
 **Features**
 
-* Lightweight - only one line of code.
-* Simple to use - activate and done.
-* No settings to worry about.
+* Lightweight - only one line of code
+* Simple to use - activate and done
+* No settings to worry about
 * Easy peasy.
 
-Also stops WordPress from adding a sitemap rule to the virtual robots.txt file.
 
-
-**Why is this useful?**
-
-Because there are plugins that already implement sitemaps, and those plugins are used by a LOT of people. So all those sites with existing sitemaps will have TWO sets of sitemaps when upgraded to WP 5.5. Duplicate sets of sitemaps are discouraged as they may confuse the search engines. You don't want to confuse the search engines, do you. So with WP 5.5 and beyond, you can either remove your existing sitemap solution or install this plugin to disable the WP-generated sitemap. Or maybe you have a site that does not need a sitemap. Or maybe you just don't want a sitemap, that's your business pal. Whatever the reason, this plugin will do the job with a click.
-
-
-**More infos**
+**About WP Sitemaps**
 
 You can check your WP Sitemap located at `/wp-sitemap.xml`
 
 Your sitemap should look similar to [this](https://dev-tricks.com/wp-sitemap.xml).
 
-For more information about the new WP Sitemaps functionality:
+For more information about WP Sitemaps:
 
 * [New XML Sitemaps Functionality in WordPress 5.5](https://make.wordpress.org/core/2020/07/22/new-xml-sitemaps-functionality-in-wordpress-5-5/)
 * [About the New WP Sitemaps and How to Disable](https://perishablepress.com/wordpress-disable-wp-sitemaps/)
@@ -74,7 +69,7 @@ I develop and maintain this free plugin with love for the WordPress community. T
 
 And/or purchase one of my premium WordPress plugins:
 
-* [BBQ Pro](https://plugin-planet.com/bbq-pro/) - Super fast WordPress firewall
+* [BBQ Pro](https://plugin-planet.com/bbq-pro/) - Blazing fast WordPress firewall
 * [Blackhole Pro](https://plugin-planet.com/blackhole-pro/) - Automatically block bad bots
 * [Banhammer Pro](https://plugin-planet.com/banhammer-pro/) - Monitor traffic and ban the bad guys
 * [GA Google Analytics Pro](https://plugin-planet.com/ga-google-analytics-pro/) - Connect WordPress to Google Analytics
@@ -92,7 +87,7 @@ Links, tweets and likes also appreciated. Thank you! :)
 
 Activate like any other plugin and done. There are no settings, works automatically.
 
-More info on [installing WP plugins](https://wordpress.org/support/article/managing-plugins/#installing-plugins)
+More info on [installing WP plugins](https://wordpress.org/documentation/article/manage-plugins/#installing-plugins-1)
 
 
 **Uninstalling**
@@ -103,11 +98,20 @@ To uninstall/remove the plugin, visit the Plugins screen, deactivate and delete 
 
 == Upgrade Notice ==
 
-To upgrade this plugin, remove the old version and replace with the new version. Or just click "Update" from the Plugins screen and let WordPress do it for you automatically.
+Visit the WordPress Plugins screen, locate the plugin, and click "Update" :)
 
 
 
 == Frequently Asked Questions ==
+
+**Why is this useful?**
+
+Because many sites add their own sitemaps via dedicated SEO plugins or custom code. So when WordPress adds its own sitemaps, there may be duplicate and/or conflicting sitemaps. Duplicate and conflicting sitemaps are discouraged as they may confuse the search engines. You don't want to confuse the search engines, do you. Think SEO here.
+
+So you have a choice. To avoid duplicate/conflicting sitemaps, you can either remove your existing sitemap solution, or you can activate this plugin to disable WP's automatically generated sitemaps. 
+
+Or maybe you have a site that does not _need_ sitemaps. Or maybe you just don't _want_ sitemaps, that's your business pal. Whatever the reason, this plugin will do the job with a click.
+
 
 **Got a question?**
 
@@ -120,9 +124,11 @@ Send any questions or feedback via my [contact form](https://plugin-planet.com/s
 If you like Disable WP Sitemaps, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/disable-wp-sitemaps/reviews/?rate=5#new-post). It helps to keep the plugin going strong, and is greatly appreciated.
 
 
-**1.8.5 (2025/03/20)**
+**1.8.7 (2026/01/29)**
 
-* Tests on WordPress 6.8
+* Improves readme.txt documentation
+* Tests on PHP 8.4 and 8.5
+* Tests on WordPress 6.9
 
 
 Full changelog @ [https://plugin-planet.com/wp/changelog/disable-wp-sitemaps.txt](https://plugin-planet.com/wp/changelog/disable-wp-sitemaps.txt)
