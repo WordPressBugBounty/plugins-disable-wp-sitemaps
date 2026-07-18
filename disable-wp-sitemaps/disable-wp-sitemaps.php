@@ -9,9 +9,9 @@
 	Donate link: https://monzillamedia.com/donate.html
 	Contributors: specialk
 	Requires at least: 5.4
-	Tested up to: 7.0
-	Stable tag: 1.8.8
-	Version:    1.8.8
+	Tested up to: 7.1
+	Stable tag: 1.8.9
+	Version:    1.8.9
 	Requires PHP: 5.6.20
 	Text Domain: disable-wp-sitemaps
 	Domain Path: /languages

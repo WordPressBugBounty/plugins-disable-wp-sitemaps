@@ -9,9 +9,9 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 5.4
-Tested up to: 7.0
-Stable tag: 1.8.8
-Version:    1.8.8
+Tested up to: 7.1
+Stable tag: 1.8.9
+Version:    1.8.9
 Requires PHP: 5.6.20
 Text Domain: disable-wp-sitemaps
 Domain Path: /languages
@@ -123,6 +123,11 @@ Send any questions or feedback via my [contact form](https://plugin-planet.com/s
 == Changelog ==
 
 If you like Disable WP Sitemaps, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/disable-wp-sitemaps/reviews/?rate=5#new-post). It helps to keep the plugin going strong, and is greatly appreciated.
+
+
+**1.8.9 (2026/07/18)**
+
+* Tests on WordPress 7.1
 
 
 **1.8.8 (2026/04/17)**
